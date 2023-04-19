@@ -2,6 +2,12 @@
     margin: 0;
     padding:0;
 }
+section{
+    font-family: 'M PLUS 1', sans-serif;
+}
+header{
+    font-family: 'Inter', sans-serif;
+}
 
 .cabeçalho {
     background-color: #64C2B2;
