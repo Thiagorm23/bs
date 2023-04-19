@@ -21,10 +21,21 @@
     font-size: 24pxs;
 }
 .Olá-imagem{
-    width: 70%;
+    width: 35%;
 }
 .Olá{
     background-image: linear-gradient(#177D8B,#AE18F4);
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.Olá-div-conteudo{
+    width: 35%;
+}
+
+.Olá-titulo{
+    padding: 24px 0;
 }
